@@ -9,7 +9,7 @@
 
 2. 安装dong
 ```bash
-$ dong java
+$ npm install -g dong
 ```
 
 ## 配置config.json
