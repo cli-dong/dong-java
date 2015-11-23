@@ -12,6 +12,11 @@ module.exports = {
   command: 'java',
   description: '生成 API 文档',
   options: [{
+    name: 'repository',
+    alias: 'r',
+    description: '克隆源',
+    defaults: 'http://svn.sdp.nd/svn/admin-develop/branch'
+  }, {
     name: 'debug',
     alias: 'd',
     description: '显示调试信息',

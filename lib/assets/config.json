@@ -1,4 +1,6 @@
 {
+  "repository": "http://svn.sdp.nd/svn/admin-develop/branch",
+
   ".project": {
     "path": "../../../",
     "replace": {
