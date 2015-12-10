@@ -15,7 +15,7 @@ module.exports = {
     name: 'repository',
     alias: 'r',
     description: '克隆源',
-    defaults: 'http://svn.sdp.nd/svn/admin-develop/branch'
+    defaults: ''
   }, {
     name: 'debug',
     alias: 'd',
