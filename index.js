@@ -14,7 +14,7 @@ module.exports = {
   options: [{
     name: 'repository',
     alias: 'r',
-    description: '克隆源',
+    description: '同步源 SVN 地址',
     defaults: ''
   }, {
     name: 'debug',
